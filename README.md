@@ -76,11 +76,13 @@ python main.py
 
 ## Estrutura da Carteira
 
+```python
 CARTEIRA = [
     {"ativo": "BTC-BRL", "quantidade": 0.05, "preco_compra": 135000, "classe": "Cripto"},
     {"ativo": "PETR4:BVMF", "quantidade": 150, "preco_compra": 34.20, "classe": "Ação"},
     {"ativo": "MXRF11:BVMF", "quantidade": 200, "preco_compra": 10.20, "classe": "FII"},
 ]
+```
 
 ---
 
