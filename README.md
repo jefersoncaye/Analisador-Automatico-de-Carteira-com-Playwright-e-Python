@@ -1,0 +1,1 @@
+# Analisador-Autom-tico-de-Carteira-com-Playwright-e-Python
