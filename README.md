@@ -45,6 +45,7 @@ O objetivo é mostrar que o Playwright pode ser utilizado não apenas para teste
 ### Clonar o repositório
 
 git clone https://github.com/jefersoncaye/Analisador-Autom-tico-de-Carteira-com-Playwright-e-Python
+
 cd seu-repositorio
 
 ### Criar ambiente virtual (opcional)
